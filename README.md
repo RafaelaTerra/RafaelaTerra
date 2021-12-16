@@ -1,4 +1,5 @@
-### Olá, seja bem vindo, eu sou a Rafaela👋
+### Olá, seja bem vindo!!
+### Eu sou a Rafaela, sou formada em Engenharia da Computação pelo Inatel
 <div align="center">
   <a href="https://github.com/RafaelaTerra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelaTerra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
